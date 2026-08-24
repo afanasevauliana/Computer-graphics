@@ -1,6 +1,5 @@
-// подключаем заголовочные файлы библиотек
-#include "glew.h"
 #include "glut.h"
+
 void RenderScene(void)
 {
 	// Окно очищается текущим цветом очистки
@@ -13,11 +12,12 @@ void SetupRC(void)
 {
 	glClearColor(0.98f, 0.625f, 0.12f, 1.0f);
 }
-// Точка входа основной программы
-int main(void)
+
+int main(int argc, char** argv)
 {
+	glutInit(&argc, argv);
 	glutInitDisplayMode(GLUT_SINGLE | GLUT_RGB);
-	glutCreateWindow("Окно 1");
+	glutCreateWindow("Listing 2");
 	glutDisplayFunc(RenderScene);
 	SetupRC();
 	glutMainLoop();
