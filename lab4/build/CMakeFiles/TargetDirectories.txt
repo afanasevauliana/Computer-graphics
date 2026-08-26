@@ -1,0 +1,6 @@
+D:/github/Computer-graphics/lab3/build/CMakeFiles/list1.dir
+D:/github/Computer-graphics/lab3/build/CMakeFiles/list2.dir
+D:/github/Computer-graphics/lab3/build/CMakeFiles/list3.dir
+D:/github/Computer-graphics/lab3/build/CMakeFiles/list4.dir
+D:/github/Computer-graphics/lab3/build/CMakeFiles/edit_cache.dir
+D:/github/Computer-graphics/lab3/build/CMakeFiles/rebuild_cache.dir

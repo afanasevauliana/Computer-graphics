@@ -1,0 +1,11 @@
+D:/github/Computer-graphics/lab4/out/build/mingw-debug/CMakeFiles/list1.dir
+D:/github/Computer-graphics/lab4/out/build/mingw-debug/CMakeFiles/list2.dir
+D:/github/Computer-graphics/lab4/out/build/mingw-debug/CMakeFiles/list3.dir
+D:/github/Computer-graphics/lab4/out/build/mingw-debug/CMakeFiles/list4.dir
+D:/github/Computer-graphics/lab4/out/build/mingw-debug/CMakeFiles/list5.dir
+D:/github/Computer-graphics/lab4/out/build/mingw-debug/CMakeFiles/list6.dir
+D:/github/Computer-graphics/lab4/out/build/mingw-debug/CMakeFiles/list7.dir
+D:/github/Computer-graphics/lab4/out/build/mingw-debug/CMakeFiles/list8.dir
+D:/github/Computer-graphics/lab4/out/build/mingw-debug/CMakeFiles/list9.dir
+D:/github/Computer-graphics/lab4/out/build/mingw-debug/CMakeFiles/edit_cache.dir
+D:/github/Computer-graphics/lab4/out/build/mingw-debug/CMakeFiles/rebuild_cache.dir
